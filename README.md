@@ -1,6 +1,6 @@
 # terraform-azur-aks
 
-
+[![TerraformRefigistry](https://img.shields.io/badge/Terraform%20Registry-v0.0.2-blue.svg)](https://registry.terraform.io/modules/mbiomee/aks/azur)
 
 General Azur deploy using Terraform
 ---
